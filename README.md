@@ -1,7 +1,7 @@
 # 🚲 London Bike Share - Interactive Site & Dashboard
 
-**Live Site:** [https://your-username.github.io/london-bike-share-site](https://your-username.github.io/london-bike-share-site)  
-**Interactive Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/your-link)
+**Live Site:** (https://mcadriaans.github.io/london-bike-share-site/)  
+**Interactive Tableau Dashboard:** [View on Tableau Public]( https://lnkd.in/eqm6n7q9 )
 
 ---
 
