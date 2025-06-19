@@ -23,7 +23,7 @@ From 2015 to 2017, London’s bike-share system mirrored the heartbeat of the ci
 
 ## 🧮 Dashboard Preview
 
-![Dashboard Preview](london_bike_dashboard.png)
+![Dashboard Preview](/docs/london_bike_dashboard.png)
 
 🔗 [Explore Full Dashboard on Tableau Public](https://public.tableau.com/your-link)
 
