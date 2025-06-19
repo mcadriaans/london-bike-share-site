@@ -38,7 +38,7 @@ To make dashboard navigation seamless, this project includes a user-friendly gui
 - Visualize how riders respond to changing weather conditions  
 - Spot rush-hour spikes using an hourly heatmap  
 
-📄 Available in this repo: `Dashboard Guide.pdf`
+📄 Available in this repo: (/docs/Dashboard Guide.pdf)
 
 ---
 
